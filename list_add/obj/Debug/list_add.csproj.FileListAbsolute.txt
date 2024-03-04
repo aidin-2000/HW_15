@@ -1,0 +1,7 @@
+C:\Users\Aidin\source\repos\list_add\list_add\bin\Debug\list_add.exe.config
+C:\Users\Aidin\source\repos\list_add\list_add\bin\Debug\list_add.exe
+C:\Users\Aidin\source\repos\list_add\list_add\bin\Debug\list_add.pdb
+C:\Users\Aidin\source\repos\list_add\list_add\obj\Debug\list_add.csproj.AssemblyReference.cache
+C:\Users\Aidin\source\repos\list_add\list_add\obj\Debug\list_add.csproj.CoreCompileInputs.cache
+C:\Users\Aidin\source\repos\list_add\list_add\obj\Debug\list_add.exe
+C:\Users\Aidin\source\repos\list_add\list_add\obj\Debug\list_add.pdb
